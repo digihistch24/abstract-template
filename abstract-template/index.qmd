@@ -1,0 +1,44 @@
+---
+submission_id: 499
+title: Digital History submission title
+author:
+  - name: Petra Huber
+    orcid: 0000-0002-0760-5497
+    email: petra.huber@university.ch
+    affiliations:
+      - University 1
+  - name: Michel Meier
+    orcid: 0000-0002-7859-8394
+    email: michel.meier@university.edu
+    affiliations:
+      - University 1
+      - University 2
+keywords:
+  - Keyword 1
+  - Keyword 2
+  - Keyword 3
+  - Keyword 4 (optional)
+  - Keyword 5 (optional)
+abstract: |
+  Short abstract of the submission. This is a placeholder for the abstract of the manuscript. It should be between 150 and 250 words. It must not contain any references or unexplained abbreviations.
+key-points:
+  - Key point 1 (1 sentence)
+  - Key point 2 (1 sentence)
+  - Key point 3 (1 sentence)
+date: 17-03-2024
+bibliography: references.bib
+---
+
+## Introduction
+
+Extended abstract of the submission. This is a placeholder for the abstract of the manuscript.
+
+It should be between 1500 and 2000 words (excluding references).
+
+## Section 1
+
+This is a simple placeholder for the manuscript's main document [@knuth84, p. 101].
+
+## Section 2
+
+...
