@@ -25,8 +25,8 @@ The structure of this repository is designed to be as simple as possible. The ma
 
 Detailed instructions for using the template:
 
-1. Edit `index.qmd` with your favorite Markdown editor. Check the [Quarto documentation](https://quarto.org/docs/authoring/markdown-basics.html) for more information on the syntax.
-2. For guidelines on writing a compelling abstract, visit our [Abstract Writing Guide](link).
+1. Edit `index.qmd` with your favorite Markdown editor.
+2. Check the [Quarto documentation](https://quarto.org/docs/authoring/markdown-basics.html) for more information on the syntax.
 3. Follow the instructions on the [Quarto website](https://quarto.org/docs/get-started/) to install Quarto.
 4. Use `quarto preview abstract-template` to review your abstract.
 
@@ -34,13 +34,9 @@ Detailed instructions for using the template:
 
 We encourage the community to contribute by sharing successful abstracts or experiences. Join our [Discussions Page](https://github.com/orgs/digihistch24/discussions) to connect with other researchers.
 
-## FAQ
-
-Find answers to common questions regarding submission, formatting, and selection criteria [here](https://github.com/digihistch24/abstract-template/blob/main/abstract-template/index.qmd).
-
 ## Contact Information
 
-For further assistance, contact the Organizing Committee at digital-history-2024@unibas.ch
+For further assistance, join our [Discussions Page](https://github.com/orgs/digihistch24/discussions) or contact the Organizing Committee at <digital-history-2024@unibas.ch>.
 
 ## Support
 
@@ -75,6 +71,3 @@ See also the list of [contributors](https://github.com/digihistch24/abstract-tem
 ## License
 
 The data in this repository is released under the Creative Commons Attribution 4.0 International (CC BY NC ND) License - see the [LICENSE.md](LICENSE.md) file for details. By using this data, you agree to give appropriate credit to the original author(s) and to indicate if any modifications have been made.
-
-
-To improve the `README.md` for the Digital History Switzerland 2024 abstract template repository, I suggest the following revisions:
