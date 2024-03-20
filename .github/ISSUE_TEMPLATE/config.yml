@@ -1,5 +1,6 @@
 contact_links:
-  - name: Are you looking for documentation on REPO_NAME?
+  - name: Are you looking for documentation on abstract-template?
+    about: Please see the documentation for abstract-template on its GitHub Pages page.
     url: https://github.com/digihistch24/abstract-template
     about: Please see the documentation for REPO_NAME on its GitHub Pages page.
   - name: Do want to discuss with the community?
