@@ -6,7 +6,6 @@ Welcome to the official repository for the extended abstracts of the Digital His
 [![GitHub forks](https://img.shields.io/github/forks/digihistch24/abstract-template.svg)](https://github.com/digihistch24/abstract-template/network)
 [![GitHub stars](https://img.shields.io/github/stars/digihistch24/abstract-template.svg)](https://github.com/digihistch24/abstract-template/stargazers)
 [![GitHub license](https://img.shields.io/github/license/digihistch24/abstract-template.svg)](https://github.com/digihistch24/abstract-template/blob/main/LICENSE.md)
-[![DOI](https://zenodo.org/badge/ZENODO_RECORD.svg)](https://zenodo.org/badge/latestdoi/ZENODO_RECORD)
 
 ## Introduction
 
@@ -37,7 +36,7 @@ We encourage the community to contribute by sharing successful abstracts or expe
 
 ## FAQ
 
-Find answers to common questions regarding submission, formatting, and selection criteria [here](link).
+Find answers to common questions regarding submission, formatting, and selection criteria [here](https://github.com/digihistch24/abstract-template/blob/main/abstract-template/index.qmd).
 
 ## Contact Information
 
@@ -50,11 +49,9 @@ This project is maintained by [@digihistch24](https://github.com/digihistch24). 
 | Type                                   | Platforms                                                               |
 | -------------------------------------- | ----------------------------------------------------------------------- |
 | 🚨 **Bug Reports**                     | [GitHub Issue Tracker](https://github.com/digihistch24/abstract-template/issues)    |
-| 📊 **Report bad data**                 | [GitHub Issue Tracker](https://github.com/digihistch24/abstract-template/issues)    |
 | 📚 **Docs Issue**                      | [GitHub Issue Tracker](https://github.com/digihistch24/abstract-template/issues)    |
 | 🎁 **Feature Requests**                | [GitHub Issue Tracker](https://github.com/digihistch24/abstract-template/issues)    |
-| 🛡 **Report a security vulnerability** | See [SECURITY.md](SECURITY.md)                                          |
-| 💬 **General Questions**               | [GitHub Discussions](https://github.com/digihistch24/abstract-template/discussions) |
+| 💬 **General Questions**               | [GitHub Discussions](https://github.com/orgs/digihistch24/discussions) |
 
 ## Roadmap
 
