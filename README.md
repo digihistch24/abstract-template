@@ -25,10 +25,11 @@ The structure of this repository is designed to be as simple as possible. The ma
 
 Detailed instructions for using the template:
 
-1. Edit `index.qmd` with your favorite Markdown editor.
-2. Check the [Quarto documentation](https://quarto.org/docs/authoring/markdown-basics.html) for more information on the syntax.
-3. Follow the instructions on the [Quarto website](https://quarto.org/docs/get-started/) to install Quarto.
-4. Use `quarto preview abstract-template` to review your abstract.
+1. Follow the instructions on the [Quarto website](https://quarto.org/docs/get-started/) to install Quarto.
+2. Edit `index.qmd` with your favorite Markdown editor, turning your abstract into a [Quarto Manuscript](https://quarto.org/docs/manuscripts/). Check the [Quarto documentation](https://quarto.org/docs/authoring/markdown-basics.html) for more information on markdown syntax.
+3. Use `quarto preview abstract-template` to preview your abstract.
+4. Enhance your abstract with inline code, figures, etc. at will.
+5. We will collect all extended abstracts and publish them as a collection [on GitHub Pages](https://quarto.org/docs/publishing/github-pages.html#overview) in August 2024.
 
 ## Community Engagement
 
