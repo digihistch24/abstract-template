@@ -9,7 +9,7 @@ Welcome to the official repository for the extended abstracts of the Digital His
 
 ## Introduction
 
-This repository hosts the standardized template for submitting extended abstracts to the Digital History Switzerland 2024 conference. It's designed to ensure uniformity in submissions, making the review process more efficient and accessible. And it looks nice, too.
+This repository hosts the standardized template for submitting extended abstracts to the Digital History Switzerland 2024 conference. It's designed to ensure uniformity in submissions, making the review process more efficient and accessible. And it is also aesthetically pleasing.
 
 ![Preview of the abstract template.](screenshot.png)
 
@@ -28,7 +28,7 @@ To get started with the abstract template, follow these steps:
 3. **Access and Edit Your Abstract:**
    - In your new repository, navigate to the `abstract-template` folder.
    - Find the `index.qmd` file and click on it.
-   - Click the pencil icon (edit) in the top right corner of the file view to begin editing.
+   - Click the pencil icon (edit) in the top-right corner of the file view to begin editing.
 
 4. **Commit Your Changes:**
    - After making your edits, scroll to the bottom of the page.
@@ -165,5 +165,5 @@ See also the list of [contributors](https://github.com/digihistch24/abstract-tem
 
 ## License
 
-The data in this repository is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) License - see the [LICENSE-CCBY](LICENSE-CCBY) file for details. By using this data, you agree to give appropriate credit to the original author(s) and to indicate if any modifications have been made.
+The data in this repository is released under the Creative Commons Attribution Share Alike 4.0 International (CC BY 4.0) License - see the [LICENSE-CCBYSA](LICENSE-CCBYSA) file for details. By using this data, you agree to make any modifications available under the same license.
 The code in this repository is released under the GNU Affero General Public License v3.0 - see the [LICENSE-AGPL](LICENSE-AGPL) file for details. By using this code, you agree to make any modifications available under the same license.
