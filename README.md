@@ -104,7 +104,7 @@ The structure of this repository is designed to be as simple as possible. The ma
   - `index.qmd` - The main file of the abstract.
   - `references.bib` - The BibTeX file for the references.
 
-### Previewing the Abstract
+### Previewing the Abstract from the Command Line
 
 Previewing your document ensures it looks correct before submission. Here is how you can preview your abstract using the Quarto CLI:
 
@@ -115,13 +115,13 @@ Previewing your document ensures it looks correct before submission. Here is how
    - Access your terminal or command prompt. On Windows, you can search for "cmd" or "Command Prompt" in your start menu. On macOS, open "Terminal" from your Applications/Utilities folder.
 
 3. **Navigate to Your Repository:**
-   - Use the `cd` command to change directories to the root directory of your repository, where your `index.qmd` file is located.
+   - Use the `cd` command to change directories to the root directory of your repository. You can type `cd` (with a space after) and then drag and drop your repository folder into the terminal window to automatically fill in the path. Press Enter to change to that directory.
 
 4. **Run the Preview Command:**
    - Type `quarto preview abstract-template` and press Enter. Quarto will start a local server and open a preview of your abstract in your default web browser.
 
 5. **Check for Errors:**
-   - If you encounter any errors during preview, refer to the Quarto documentation for troubleshooting or ask for help on the Discussions Page.
+   - If you encounter any errors during preview, refer to the [Quarto documentation](https://quarto.org/docs/guide/) for troubleshooting or ask for help on the Discussions Page.
 
 By following these enhanced instructions, users should find it easier to start working with the template, make necessary edits, and collaborate with others. These improvements aim to reduce confusion and streamline the user experience, particularly for those who may be new to using GitHub and Quarto.
 
