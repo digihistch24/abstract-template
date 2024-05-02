@@ -98,7 +98,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 The structure of this repository is designed to be as simple as possible. The main files are:
 
-- `abstract-template` - The root directory of the repository.
+- `submission` - The root directory of the repository.
   - `_quarto.yml` - The configuration file for the Quarto project.
   - `.gitignore` - The file specifies intentionally untracked files to ignore.
   - `index.qmd` - The main file of the abstract.
@@ -118,7 +118,7 @@ Previewing your document ensures it looks correct before submission. Here is how
    - Use the `cd` command to change directories to the root directory of your repository. You can type `cd` (with a space after) and then drag and drop your repository folder into the terminal window to automatically fill in the path. Press Enter to change to that directory.
 
 4. **Run the Preview Command:**
-   - Type `quarto preview abstract-template` and press Enter. Quarto will start a local server and open a preview of your abstract in your default web browser.
+   - Type `quarto preview submission` and press Enter. Quarto will start a local server and open a preview of your abstract in your default web browser.
 
 5. **Check for Errors:**
    - If you encounter any errors during preview, refer to the [Quarto documentation](https://quarto.org/docs/guide/) for troubleshooting or ask for help on the Discussions Page.
